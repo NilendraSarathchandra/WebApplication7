@@ -1,0 +1,7 @@
+D:\Temp\Test projects\WebApplication7\Tute.BusinessService\bin\Debug\Tute.BusinessService.dll
+D:\Temp\Test projects\WebApplication7\Tute.BusinessService\bin\Debug\Tute.BusinessService.pdb
+D:\Temp\Test projects\WebApplication7\Tute.BusinessService\bin\Debug\Tute.Domain.dll
+D:\Temp\Test projects\WebApplication7\Tute.BusinessService\bin\Debug\Tute.Domain.pdb
+D:\Temp\Test projects\WebApplication7\Tute.BusinessService\obj\Debug\Tute.BusinessService.csprojResolveAssemblyReference.cache
+D:\Temp\Test projects\WebApplication7\Tute.BusinessService\obj\Debug\Tute.BusinessService.dll
+D:\Temp\Test projects\WebApplication7\Tute.BusinessService\obj\Debug\Tute.BusinessService.pdb
